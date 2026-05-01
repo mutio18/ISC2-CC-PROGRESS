@@ -1,0 +1,24 @@
+ISC2 Certified in Cybersecurity (CC) - My Journey
+
+Hi. I'm a Computer Science student in Kenya working toward the ISC2 CC certification. This repository documents my progress.
+
+Progress So Far
+
+| Domain | Status | Score | Certificate |
+|--------|--------|-------|-------------|
+| Domain 1: Security Principles | Complete | Uploaded |
+| Domain 2: Incident Response, BCDR | Complete | Uploaded |
+| Domain 3: Access Control Concepts | ⬜ In progress | - |
+| Domain 4: Network Security | ⬜ Not started | - |
+| Domain 5: Security Operations | ⬜ Not started | - |
+
+What's in This Repository
+
+- Domain completion certificates (PDFs)
+- [More files will be added as I progress]
+
+My Journey So Far
+
+- **Day 1:** Completed Domain 1 (Security Principles), set up this repository
+- **Day 2:** Completed Domain 2 (Incident Response, BCDR) 
+
