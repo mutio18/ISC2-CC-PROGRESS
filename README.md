@@ -8,7 +8,7 @@ Progress So Far
 |--------|--------|-------|-------------|
 | Domain 1: Security Principles | Complete | Uploaded |
 | Domain 2: Incident Response, BCDR | Complete | Uploaded |
-| Domain 3: Access Control Concepts | ⬜ In progress | - |
+| Domain 3: Access Control Concepts | Complete | Uploaded |
 | Domain 4: Network Security | ⬜ Not started | - |
 | Domain 5: Security Operations | ⬜ Not started | - |
 
@@ -20,5 +20,6 @@ What's in This Repository
 My Journey So Far
 
 - **Day 1:** Completed Domain 1 (Security Principles), set up this repository
-- **Day 2:** Completed Domain 2 (Incident Response, BCDR) 
+- **Day 2:** Completed Domain 2 (Incident Response, BCDR)
+- **Day 3:** Completed Domain 3 (Access Control Concepts) 
 
