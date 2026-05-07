@@ -4,7 +4,7 @@ Hi. I'm a Computer Science student in Kenya working toward the ISC2 CC certifica
 
 Progress So Far
 
-| Domain | Status | Score | Certificate |
+| Domain | Status | Certificate |
 |--------|--------|-------|-------------|
 | Domain 1: Security Principles | Complete | Uploaded |
 | Domain 2: Incident Response, BCDR | Complete | Uploaded |
