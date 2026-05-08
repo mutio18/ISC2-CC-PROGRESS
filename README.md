@@ -11,11 +11,11 @@ Progress So Far
 | Domain 3: Access Control Concepts | Complete | Uploaded |
 | Domain 4: Network Security | Completed | Uploaded |
 | Domain 5: Security Operations | Completed | Uploaded |
+| Final Assessment Certification | Completed | Uploaded |
 
 What's in This Repository
 
 - Domain completion certificates (PDFs)
-- [More files will be added as I progress]
 
 My Journey So Far
 
@@ -24,4 +24,5 @@ My Journey So Far
 - **Day 3:** Completed Domain 3 (Access Control Concepts)
 - **Day 4:** Completed Domain 4 (Network Security)
 - **Day 5:** Completed Domain 5 (Security Operations)
+- **Day 6:** Completed Final Assessment (Final Certificate)
 
