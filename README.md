@@ -26,3 +26,4 @@ My Journey So Far
 - **Day 5:** Completed Domain 5 (Security Operations)
 - **Day 6:** Completed Final Assessment (Final Certificate)
 
+This repository captures the cerificates acquired through this learning process using the ISC2 platform. All the cerificates in regards to Certifications to Cybersecurity have been acquired.
